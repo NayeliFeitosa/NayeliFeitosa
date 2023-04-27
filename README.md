@@ -4,7 +4,7 @@
 
 * Master in Information Science - Federal University of Ceará;
 * Bachelor degree in Librarianship at the Federal University of Ceará - UFC;
-* I'm currently studying Web development at the Federal Institute of Education Science and Technology;
+* I'm currently studying Web development at the Federal Institute of Education Science and Technology - IFCE;
 * I’m looking for help with learning about HTML, CSS and JavaScript. 
 
 :mailbox: How to reach me: you can send me an email at nayelifeitosa@gmail.com.
