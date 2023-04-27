@@ -4,9 +4,8 @@
 
 * Master in Information Science - Federal University of Ceará;
 * Bachelor degree in Librarianship at the Federal University of Ceará - UFC;
-* I'm currently studying Analysis and systems development at the Estácio University;
-* I'm currently learning Kotlin and trying to improve my skills;
-* I’m looking for help with learning about HTML and JavaScript. 
+* I'm currently studying Web development at the Federal Institute of Education Science and Technology;
+* I’m looking for help with learning about HTML, CSS and JavaScript. 
 
 :mailbox: How to reach me: you can send me an email at nayelifeitosa@gmail.com.
 
